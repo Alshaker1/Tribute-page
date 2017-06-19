@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+body {
+  margin: 100px;
+  margin-top: 20px;
+  color: #333;
+  font-family: Josefin Sans;
+  background: rgb(255, 255, 255);
+  background: -moz-radial-gradient(center, ellipse cover, rgba(255, 255, 255, 1) 0%, rgba(206, 206, 206, 1) 100%);
+  background: -webkit-radial-gradient(center, ellipse cover, rgba(255, 255, 255, 1) 0%, rgba(206, 206, 206, 1) 100%);
+  background: radial-gradient(ellipse at center, rgba(255, 255, 255, 1) 0%, rgba(206, 206, 206, 1) 100%);
+}
+
+h2 {
+  margin: 20px;
+}
+
+h3 {
+  margin: 20px;
+}
+
+h4 {
+  margin-left: 20px;
+}
+
+.smaller-image {
+  width: 250px;
+  display: block;
+  margin: 10px auto;
+  border-radius: 20px;
+}
+
+.thin-border {
+  border-color: yellow;
+  border-width: 1px;
+  border-style: solid;
+}
+
+li {
+  font-size: 1.1em;
+}
